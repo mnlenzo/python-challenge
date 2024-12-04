@@ -1,0 +1,8 @@
+
+PyBank Analysis 
+----------------------
+	Total Months = 86 
+	Total Income = $22,564,198.00
+	Average Change Per Month = $-706,444.00 
+	Greatest Increase = Feb-17 Amount $-706,444.00 
+	Greatest Decrease = Feb-17 Amount $-706,444.00 
